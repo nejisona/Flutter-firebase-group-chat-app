@@ -1,6 +1,6 @@
 # Flutter-firebase-group-chat-app
 
-<p>Group-based chat app in Flutter and Firebase with Cloudfirestore, Firebase Auth and StreamBuilders 
+<p>Group-based chat app in Flutter and Firebase.
 <br>
 Developed by Neeraj Sona
 <br>
